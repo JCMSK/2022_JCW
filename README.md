@@ -22,4 +22,5 @@ Topics of the hackathon sessions:
 - Breakfasts: June 9-11
 - Coffee breaks: June 9-11
 - Lunch: June 9-11
-- 
+- Dinner on June 9 at [Tapijn Brasserie](https://www.tapijn.nl/)
+- Dinner on June 10 at [Lumière](https://lumiere.nl/)
