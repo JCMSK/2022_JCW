@@ -19,8 +19,8 @@ Topics of the hackathon sessions:
 - Check in: Wednesday, June 8 2022. Check out: Saturday, June 11, 2022. Total nights: 3
 
 ### Meals
-- Breakfasts: June 9-11
-- Coffee breaks: June 9-11
+- Breakfast: June 9-11
+- Coffee break: June 9-11
 - Lunch: June 9-11
 - Dinner on June 9 at [Tapijn Brasserie](https://www.tapijn.nl/)
 - Dinner on June 10 at [Lumière](https://lumiere.nl/)
