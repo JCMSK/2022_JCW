@@ -10,7 +10,39 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 ![](program_draft.png)
 
 Topics of the hackathon sessions:
-- TBD
+- Biomechanics: coming soon!
+- SPECTRA: coming soon! 
+- knee/ITK: coming soon! 
+- Muscle: coming soon! 
+
+## Participants
+In alphabetical order:
+- Andrew	Burghardt
+- Andy Kin On	Wong
+- Donnie	Cameron
+- Dženan	Zukić
+- Enrico	Schileo
+- Francesco	Santini
+- Fulvia	Taddei
+- Gianluca	Iori
+- Gianluigi	Crimi
+- Giulia	Fraterrigo
+- Giulia	Colelli
+- Jilmen	Quintiens
+- Justin	Tse
+- Kathryn	Stok
+- Leonardo	Barzaghi
+- Majid	Mohammad Sadeghi
+- Mariska	Wesseling
+- Martino	Pani
+- Michael	Kuczynski
+- Michelle Alejandra	Espinosa Hernandez
+- Nathan	Neeteson
+- Pholpat	Durongbhan
+- Pranjal	Sahu / Jared Victory
+- Sarah	Manske
+- Serena	Bonaretti
+
 
 ## Costs covered by [NUMFocus](https://numfocus.org/) 
 
