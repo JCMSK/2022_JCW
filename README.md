@@ -35,13 +35,20 @@ Topics of the hackathon sessions:
 - [Mariska	Wesseling](https://www.linkedin.com/in/mariska-wesseling-6230b816/?originalSubdomain=nl)
 - [Martino	Pani](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/martino-pani)
 - [Michael	Kuczynski](https://cumming.ucalgary.ca/labs/manske/our-team/michael-kuczynski)
-- Michelle Alejandra	Espinosa Hernandez
+- [Michelle Alejandra	Espinosa Hernandez](https://www.linkedin.com/in/michelleaespinosah )
 - [Nathan	Neeteson](https://www.ucalgary.ca/labs/bonelab/nathan-neeteson)
 - [Pholpat	Durongbhan](https://www.linkedin.com/in/pholpatd/?originalSubdomain=au)
 - [Pranjal	Sahu](https://www.kitware.com/pranjal-sahu-ph-d/) / Jared Victory
 - [Sarah	Manske](https://cumming.ucalgary.ca/departments/radiology/profiles/sarah-manske)
 - [Serena Bonaretti](https://sbonaretti.github.io/)
 
+Members of the community who cannot join - We will miss you!
+- [Hastings	Greer](https://biag.cs.unc.edu/author/hastings-greer/)
+- [Julio	Carballido Gamio](https://profiles.ucdenver.edu/display/12755883)
+- [Lorenzo	Grassi](https://portal.research.lu.se/en/persons/lorenzo-grassi)
+- [Marc	Niethammer](https://cs.unc.edu/person/marc-niethammer/)
+- [Matt	McCormick](https://www.kitware.com/matt-mccormick/)
+- [Mojtaba	Barzegari](https://mbarzegary.github.io/)
 
 
 ### Accommodation
@@ -56,5 +63,5 @@ Topics of the hackathon sessions:
 - Dinner on June 10 at [Lumière](https://lumiere.nl/)
 
 ### Transportation 
-- Public transportation in The Netherlands is very reliable. You can schedule your trip at [ns.nl](https://www.ns.nl/en)
+- Public transportation in The Netherlands is very reliable. You can schedule your trips at [ns.nl](https://www.ns.nl/en)
 - Reimbursements: TBD
