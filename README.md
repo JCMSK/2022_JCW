@@ -15,6 +15,9 @@ Topics of the hackathon sessions:
 - knee/ITK: coming soon! 
 - Muscle: coming soon! 
 
+Walk/hike:
+- Fort Sint Pieter and the caves
+
 ## Participants
 - [Andrew	Burghardt](https://profiles.ucsf.edu/andrew.burghardt)
 - [Andy Kin On Wong](https://www.uhnresearch.ca/researcher/andy-kin-wong)
@@ -50,6 +53,7 @@ Members of the community who cannot join - We will miss you!
 - [Matt	McCormick](https://www.kitware.com/matt-mccormick/)
 - [Mojtaba	Barzegari](https://mbarzegary.github.io/)
 
+---
 
 ### Accommodation
 - Where: [The Student Hotel](https://www.thestudenthotel.com/maastricht/) 
@@ -66,7 +70,21 @@ Members of the community who cannot join - We will miss you!
 - Public transportation in The Netherlands is very reliable. You can schedule your trips at [ns.nl](https://www.ns.nl/en)
 - Reimbursements: TBD
 
+---
+
 ### What you need to know about the Netherlands
 - Bikers are always right! 
 - Coffee shop &#8800; coffe place!
+
+### Practical information about Maastricht 
+- Shop hours: 10am-6pm; Sundays: 12pm-6pm
+- It might rain: have an umbrella or a raincoat!
 - Everybody speaks English!
+
+### Things to do or see in Maastricht
+- Enjoy downtown, with its restaurants, shops, ancient walls, and churches
+- [Dominicanen Boekhandel](https://libris.nl/dominicanen)
+- [De Bisschopsmolen](https://www.bisschopsmolen.nl/)
+- Market on Friday: 8:00am - 2:00pm 
+- Ask for more!
+
