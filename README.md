@@ -33,14 +33,14 @@ Topics of the hackathon sessions:
 - Leonardo	Barzaghi
 - [Majid	Mohammad Sadeghi](https://www.maastrichtuniversity.nl/p70077839)
 - [Mariska	Wesseling](https://www.linkedin.com/in/mariska-wesseling-6230b816/?originalSubdomain=nl)
-- Martino	Pani
-- Michael	Kuczynski
+- [Martino	Pani](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/martino-pani)
+- [Michael	Kuczynski](https://cumming.ucalgary.ca/labs/manske/our-team/michael-kuczynski)
 - Michelle Alejandra	Espinosa Hernandez
-- Nathan	Neeteson
+- [Nathan	Neeteson](https://www.ucalgary.ca/labs/bonelab/nathan-neeteson)
 - [Pholpat	Durongbhan](https://www.linkedin.com/in/pholpatd/?originalSubdomain=au)
-- Pranjal	Sahu / Jared Victory
-- Sarah	Manske
-- Serena	Bonaretti
+- [Pranjal	Sahu](https://www.kitware.com/pranjal-sahu-ph-d/) / Jared Victory
+- [Sarah	Manske](https://cumming.ucalgary.ca/departments/radiology/profiles/sarah-manske)
+- [Serena Bonaretti](https://sbonaretti.github.io/)
 
 
 ## Costs covered by [NUMFocus](https://numfocus.org/) 
