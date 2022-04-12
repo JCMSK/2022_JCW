@@ -82,7 +82,7 @@ Members of the community who cannot join - We will miss you!
 - Everybody speaks English!
 
 ### Things to do or see in Maastricht
-- Enjoy downtown, with its restaurants, shops, ancient walls, and churches
+- Enjoy downtown, with its restaurants, shops, ancient walls, squares, and churches
 - [Dominicanen Boekhandel](https://libris.nl/dominicanen)
 - [De Bisschopsmolen](https://www.bisschopsmolen.nl/)
 - Market on Friday: 8:00am - 2:00pm 
