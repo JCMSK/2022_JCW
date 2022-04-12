@@ -16,29 +16,28 @@ Topics of the hackathon sessions:
 - Muscle: coming soon! 
 
 ## Participants
-In alphabetical order:
 - [Andrew	Burghardt](https://profiles.ucsf.edu/andrew.burghardt)
 - [Andy Kin On Wong](https://www.uhnresearch.ca/researcher/andy-kin-wong)
 - [Donnie	Cameron](https://www.spierziektencentrum.nl/person/dr-donnie-cameron/)
 - [Dženan	Zukić](https://www.kitware.com/dzenan-zukic/)
 - [Enrico	Schileo](https://www.ior.it/en/ricerca-e-innovazione/enrico-schileo-msc-phd)
 - [Francesco	Santini](https://www.francescosantini.com/wp/)
-- Fulvia	Taddei
-- Gianluca	Iori
-- Gianluigi	Crimi
-- Giulia	Fraterrigo
+- [Fulvia	Taddei](https://www.ior.it/en/ricerca-e-innovazione/fulvia-taddei-biomedical-engineer)
+- [Gianluca	Iori](https://github.com/gianthk)
+- [Gianluigi	Crimi](https://www.ior.it/en/ricerca-e-innovazione/gianluigi-crimi)
+- [Giulia	Fraterrigo](https://www.ior.it/en/ricerca-e-innovazione/ing-giulia-fraterrigo)
 - Giulia	Colelli
-- Jilmen	Quintiens
-- Justin	Tse
-- Kathryn	Stok
+- [Jilmen	Quintiens](https://www.kuleuven.be/wieiswie/nl/person/00139075)
+- [Justin	Tse](https://cumming.ucalgary.ca/labs/manske/our-team/justin-tse)
+- [Kathryn	Stok](https://biomedical.eng.unimelb.edu.au/integrative-cartilage/people)
 - Leonardo	Barzaghi
-- Majid	Mohammad Sadeghi
-- Mariska	Wesseling
+- [Majid	Mohammad Sadeghi](https://www.maastrichtuniversity.nl/p70077839)
+- [Mariska	Wesseling](https://www.linkedin.com/in/mariska-wesseling-6230b816/?originalSubdomain=nl)
 - Martino	Pani
 - Michael	Kuczynski
 - Michelle Alejandra	Espinosa Hernandez
 - Nathan	Neeteson
-- Pholpat	Durongbhan
+- [Pholpat	Durongbhan](https://www.linkedin.com/in/pholpatd/?originalSubdomain=au)
 - Pranjal	Sahu / Jared Victory
 - Sarah	Manske
 - Serena	Bonaretti
