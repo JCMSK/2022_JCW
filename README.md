@@ -43,7 +43,6 @@ Topics of the hackathon sessions:
 - [Serena Bonaretti](https://sbonaretti.github.io/)
 
 
-## Costs covered by [NUMFocus](https://numfocus.org/) 
 
 ### Accommodation
 - Where: [The Student Hotel](https://www.thestudenthotel.com/maastricht/) 
@@ -55,3 +54,7 @@ Topics of the hackathon sessions:
 - Lunch: June 9-11
 - Dinner on June 9 at [Tapijn Brasserie](https://www.tapijn.nl/)
 - Dinner on June 10 at [Lumière](https://lumiere.nl/)
+
+### Transportation 
+- Public transportation in The Netherlands is very reliable. You can schedule your trip at [ns.nl](https://www.ns.nl/en)
+- Reimbursements: TBD
