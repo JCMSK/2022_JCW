@@ -17,12 +17,12 @@ Topics of the hackathon sessions:
 
 ## Participants
 In alphabetical order:
-- Andrew	Burghardt
-- Andy Kin On	Wong
-- Donnie	Cameron
-- Dženan	Zukić
-- Enrico	Schileo
-- Francesco	Santini
+- [Andrew	Burghardt](https://profiles.ucsf.edu/andrew.burghardt)
+- [Andy Kin On Wong](https://www.uhnresearch.ca/researcher/andy-kin-wong)
+- [Donnie	Cameron](https://www.spierziektencentrum.nl/person/dr-donnie-cameron/)
+- [Dženan	Zukić](https://www.kitware.com/dzenan-zukic/)
+- [Enrico	Schileo](https://www.ior.it/en/ricerca-e-innovazione/enrico-schileo-msc-phd)
+- [Francesco	Santini](https://www.francescosantini.com/wp/)
 - Fulvia	Taddei
 - Gianluca	Iori
 - Gianluigi	Crimi
