@@ -9,13 +9,29 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 
 ![](program_draft.png)
 
-Topics of the hackathon sessions:
-- Biomechanics: coming soon!
-- SPECTRA: coming soon! 
-- knee/ITK: coming soon! 
-- Muscle: coming soon! 
 
-Walk/hike:
+### Hackathon sessions
+
+- Topics:
+  - Biomechanics: coming soon!
+  - SPECTRA: coming soon! 
+  - knee/ITK: coming soon! 
+  - Muscle: coming soon! 
+
+
+### Learning sessions
+
+- Instructors:
+  - Jupyter/Python: Serena Bonaretti, who else?
+  - ITK: [Dženan	Zukić](https://www.kitware.com/dzenan-zukic/) and [Jared Vicory](https://www.kitware.com/jared-vicory/)  
+- Learning material: [here]()
+
+### Invited speakers
+- [Lorena Barba](https://about.me/lorenabarba)
+- TBD
+
+
+### Walk/hike:
 - Fort Sint Pieter and the caves
 
 ## Participants
@@ -30,7 +46,7 @@ Walk/hike:
 - [Gianluigi	Crimi](https://www.ior.it/en/ricerca-e-innovazione/gianluigi-crimi)
 - [Giulia	Fraterrigo](https://www.ior.it/en/ricerca-e-innovazione/ing-giulia-fraterrigo)
 - Giulia	Colelli
-- [Jared Victory](https://www.kitware.com/jared-vicory/)
+- [Jared Vicory](https://www.kitware.com/jared-vicory/)
 - [Jilmen	Quintiens](https://www.kuleuven.be/wieiswie/nl/person/00139075)
 - [Justin	Tse](https://cumming.ucalgary.ca/labs/manske/our-team/justin-tse)
 - [Kathryn	Stok](https://biomedical.eng.unimelb.edu.au/integrative-cartilage/people)
