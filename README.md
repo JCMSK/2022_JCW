@@ -30,6 +30,7 @@ Walk/hike:
 - [Gianluigi	Crimi](https://www.ior.it/en/ricerca-e-innovazione/gianluigi-crimi)
 - [Giulia	Fraterrigo](https://www.ior.it/en/ricerca-e-innovazione/ing-giulia-fraterrigo)
 - Giulia	Colelli
+- [Jared Victory](https://www.kitware.com/jared-vicory/)
 - [Jilmen	Quintiens](https://www.kuleuven.be/wieiswie/nl/person/00139075)
 - [Justin	Tse](https://cumming.ucalgary.ca/labs/manske/our-team/justin-tse)
 - [Kathryn	Stok](https://biomedical.eng.unimelb.edu.au/integrative-cartilage/people)
@@ -41,7 +42,6 @@ Walk/hike:
 - [Michelle Alejandra	Espinosa Hernandez](https://www.linkedin.com/in/michelleaespinosah )
 - [Nathan	Neeteson](https://www.ucalgary.ca/labs/bonelab/nathan-neeteson)
 - [Pholpat	Durongbhan](https://www.linkedin.com/in/pholpatd/?originalSubdomain=au)
-- [Pranjal	Sahu](https://www.kitware.com/pranjal-sahu-ph-d/) / Jared Victory
 - [Sarah	Manske](https://cumming.ucalgary.ca/departments/radiology/profiles/sarah-manske)
 - [Serena Bonaretti](https://sbonaretti.github.io/)
 
