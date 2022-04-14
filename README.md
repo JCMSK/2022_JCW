@@ -29,8 +29,8 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 
 - Topics at the links:
   - [Biomechanics group](./hackathons/biomech.pdf) 
-  - [SPECTRA]()
-  - [Muscle group]()
+  - [SPECTRA](./hackathons/spectra.pdf) 
+  - [Muscle group](./hackathons/muscle.pdf) 
 
 ### Learning sessions
 
