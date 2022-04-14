@@ -128,6 +128,7 @@ Members of the community who cannot join - We will miss you!
 - Shop hours: 10am-6pm; Sundays: 12pm-6pm
 - It might rain: have an umbrella or a raincoat!
 - Everybody speaks English!
+- If you want to go out for dinner on Saturday night, consider reserving before. Also, restaurants usually do not accept big groups over the weekend
 
 ### Things to do or see in Maastricht
 - Enjoy downtown, with its restaurants, shops, ancient walls, squares, and churches
