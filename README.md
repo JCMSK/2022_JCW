@@ -87,7 +87,7 @@ Members of the community who cannot join - We will miss you!
 - You can schedule your trip at [ns.nl](https://www.ns.nl/en)
 - Recommendations: 
   - At Amsterdam Schipol international airport, train tracks are in the airport hall. Buy the ticket in the hall, and go downstairs to the tracks
-    ![](ticket_machines_schiphol.jpg)
+    ![](trains_schiphol.jpg)
   
 
   - From Amsterdam Schipol international airport to Maastricht train station: the trip takes about 2h45min. We recommend to change in Utrecht or 'S-Hertogenbosch (not Amsterdam) 
