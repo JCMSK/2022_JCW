@@ -6,19 +6,12 @@ Dates: June 9-11, 2022
 Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxcour 9A, 6211 XZ Maastricht, The Netherlands 
 
 [Preliminary program](#Preliminary-program)  
-&nbsp; [Hackathon sessions](#Hackathon-sessions)    
-&nbsp; [Learning sessions](#Learning-sessions)    
-&nbsp; [Invited speakers](#Invited-speakers)     
-&nbsp; [Walk/hike](#Walk/hike)    
+&nbsp;&nbsp; [Hackathon sessions](#Hackathon-sessions); [Learning sessions](#Learning-sessions); [Invited speakers](#Invited-speakers); [Walk/hike](#Walk/hike)    
 [Participants](#Participants)  
 [Staying, eating, and travelling](Staying-eating-travelling)    
-&nbsp; [Accommodation](#Accommodation)  
-&nbsp; [Meals](#Meals)  
-&nbsp; [Transportation](#Transportation)  
+&nbsp;&nbsp; [Accommodation](#Accommodation); [Meals](#Meals); [Transportation](#Transportation)  
 [Tips](#Tips)   
-&nbsp; [What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands)     
-&nbsp; [Practical information about Maastricht ](#Practical-information-about-Maastricht)    
-&nbsp; [Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
+&nbsp;&nbsp; [What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands); [Practical information about Maastricht ](#Practical-information-about-Maastricht); [Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
 
 ## Preliminary program
 
@@ -27,7 +20,7 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 
 ### Hackathon sessions
 
-- Topics at the links:
+- Topics and aims at these links:
   - [Biomechanics group](./hackathons/biomech.pdf) 
   - [SPECTRA](./hackathons/spectra.pdf) 
   - [Muscle group](./hackathons/muscle.pdf) 
@@ -108,11 +101,11 @@ Members of the community who cannot join - We will miss you!
     ![](./figures/schipol_trains.png)
   - From Amsterdam Schipol International Airport to Maastricht: The trip takes about 2h45'. We recommend to transfer in Utrecht or 'S-Hertogenbosch (not Amsterdam) 
   - From Maastricht train station to The Student Hotel:
-    - By bus: Go outside of the train station, and find bus terminals on the right. You can buy a ticket on the bus. Several buses go to The Student Hotel and they are very frequent
+    - By bus: Go outside the train station, and find bus terminals on the right. You can buy a ticket on the bus. Several buses go to The Student Hotel and they are very frequent
       ![](./figures/maastricht_buses.png)   
     - On foot: You can walk through downtown and enjoy the athmosphere! 
       ![](./figures/maastricht_walking.png)  
-  - How to get to [QMSKI](https://qmski.org/): Take the train from Maastricht to Noordwijk. We recommended to transfers in Eindhoven and Den Haag (not Amsterdam). The trip takes about 3h30'. If you are on a budget, we recommend to book a hotel room for Sat/Sun, and travel on Sunday
+  - How to get to [QMSKI](https://qmski.org/): Take the train from Maastricht to Noordwijk. We recommended to transfers in Eindhoven and Den Haag (not Amsterdam). The trip takes about 3h30'. If you are on a budget, we recommend to book a hotel room in Maastricht for Sat/Sun, and travel on Sunday
 - Reimbursements: 
   - Form: coming soon
   - Where to ask questions: coming soon 
