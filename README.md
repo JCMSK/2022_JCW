@@ -22,7 +22,7 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 
 ## Preliminary program
 
-![](./figure/program_draft.png)
+![](./figures/program_draft.png)
 
 
 ### Hackathon sessions
