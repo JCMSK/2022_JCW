@@ -11,12 +11,14 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 &nbsp; [Invited speakers](#Invited-speakers)     
 &nbsp; [Walk/hike](#Walk/hike)    
 [Participants](#Participants)  
-[Accommodation](#Accommodation)  
-[Meals](#Meals)  
-[Transportation](#Transportation)  
-[What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands) 
-[Practical information about Maastricht ](#Practical-information-about-Maastricht) 
-[Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)
+[Staying, eating, and travelling](Staying-eating-travelling)    
+&nbsp;[Accommodation](#Accommodation)  
+&nbsp;[Meals](#Meals)  
+&nbsp;[Transportation](#Transportation)  
+[Tips](#Tips)   
+&nbsp;[What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands)     
+&nbsp;[Practical information about Maastricht ](#Practical-information-about-Maastricht)    
+&nbsp;[Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
 
 ## Preliminary program
 
@@ -84,6 +86,8 @@ Members of the community who cannot join - We will miss you!
 
 ---
 
+## Staying, eating, and travelling
+
 ### Accommodation
 - Where: [The Student Hotel](https://www.thestudenthotel.com/maastricht/) 
 - Check in: Wednesday, June 8 2022. Check out: Saturday, June 11, 2022. Total nights: 3
@@ -113,6 +117,7 @@ Members of the community who cannot join - We will miss you!
   - Where to ask questions: coming soon 
 
 ---
+## Tips
 
 ### What you need to know about the Netherlands
 - Bikers are always right! 
