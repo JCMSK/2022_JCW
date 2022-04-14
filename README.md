@@ -6,11 +6,19 @@ Dates: June 9-11, 2022
 Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxcour 9A, 6211 XZ Maastricht, The Netherlands 
 
 [Preliminary program](#Preliminary-program)  
-&nbsp; [Hackathon sessions](#Hackathon-sessions)
+&nbsp; [Hackathon sessions](#Hackathon-sessions)    
+&nbsp; [Learning sessions](#Learning-sessions)    
+&nbsp; [Invited speakers](#Invited-speakers)     
+&nbsp; [Walk/hike](#Walk/hike)    
+[Participants](#Participants)  
+[Accommodation](#Accommodation)  
+[Meals](#Meals)  
+[Transportation](#Transportation)  
+[What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands) 
+[Practical information about Maastricht ](#Practical-information-about-Maastricht) 
+[Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)
 
-
-
-## Preliminary program:
+## Preliminary program
 
 ![](./figure/program_draft.png)
 
@@ -22,7 +30,6 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
   - SPECTRA: coming soon! 
   - knee/ITK: coming soon! 
   - Muscle: coming soon! 
-
 
 ### Learning sessions
 
@@ -36,8 +43,9 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 - TBD
 
 
-### Walk/hike:
+### Walk/hike
 - Fort Sint Pieter and the caves
+- Just wear comfortable shoes. No special attire is needed!
 
 ## Participants
 - [Andrew	Burghardt](https://profiles.ucsf.edu/andrew.burghardt)
@@ -109,7 +117,6 @@ Members of the community who cannot join - We will miss you!
 ### What you need to know about the Netherlands
 - Bikers are always right! 
 - Coffee shop &#8800; coffe place!
-- 
 
 ### Practical information about Maastricht 
 - Shop hours: 10am-6pm; Sundays: 12pm-6pm
