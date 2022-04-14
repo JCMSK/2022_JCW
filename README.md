@@ -12,13 +12,13 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 &nbsp; [Walk/hike](#Walk/hike)    
 [Participants](#Participants)  
 [Staying, eating, and travelling](Staying-eating-travelling)    
-&nbsp;[Accommodation](#Accommodation)  
-&nbsp;[Meals](#Meals)  
-&nbsp;[Transportation](#Transportation)  
+&nbsp; [Accommodation](#Accommodation)  
+&nbsp; [Meals](#Meals)  
+&nbsp; [Transportation](#Transportation)  
 [Tips](#Tips)   
-&nbsp;[What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands)     
-&nbsp;[Practical information about Maastricht ](#Practical-information-about-Maastricht)    
-&nbsp;[Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
+&nbsp; [What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands)     
+&nbsp; [Practical information about Maastricht ](#Practical-information-about-Maastricht)    
+&nbsp; [Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
 
 ## Preliminary program
 
