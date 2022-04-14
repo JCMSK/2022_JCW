@@ -37,7 +37,9 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 - Instructors:
   - Jupyter/Python: Serena Bonaretti, who else?
   - ITK: [Dženan Zukić](https://www.kitware.com/dzenan-zukic/) and [Jared Vicory](https://www.kitware.com/jared-vicory/)  
-- Learning material: [here]()
+- Learning material:
+  - Jupyter/Python: coming soon! 
+  - ITK: aims [here](./learning/itk.pdf)
 
 ### Invited speakers
 - [Lorena Barba](https://about.me/lorenabarba)
