@@ -111,7 +111,7 @@ Members of the community who cannot join - We will miss you!
       ![](./figures/maastricht_buses.png)   
     - On foot: You can walk through downtown and enjoy the athmosphere! 
       ![](./figures/maastricht_walking.png)  
-  - How to get to [QMSKI](https://qmski.org/): Take the train from Maastricht to Noordwijk. We recommended to transfers in Eindhoven and Den Haag (not Amsterdam). The trip takes about 3h30'. If you are on a short budget, we recommend to book a hotel room for Sat/Sun, and travel on Sunday
+  - How to get to [QMSKI](https://qmski.org/): Take the train from Maastricht to Noordwijk. We recommended to transfers in Eindhoven and Den Haag (not Amsterdam). The trip takes about 3h30'. If you are on a budget, we recommend to book a hotel room for Sat/Sun, and travel on Sunday
 - Reimbursements: 
   - Form: coming soon
   - Where to ask questions: coming soon 
