@@ -5,13 +5,19 @@ Dates: June 9-11, 2022
 
 Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxcour 9A, 6211 XZ Maastricht, The Netherlands 
 
-[Preliminary program](#Preliminary-program)  
-&nbsp;&nbsp; [Hackathon sessions](#Hackathon-sessions); [Learning sessions](#Learning-sessions); [Invited speakers](#Invited-speakers); [Walk/hike](#Walk/hike)    
-[Participants](#Participants)  
-[Staying, eating, and travelling](Staying-eating-travelling)    
-&nbsp;&nbsp; [Accommodation](#Accommodation); [Meals](#Meals); [Transportation](#Transportation)  
-[Tips](#Tips)   
-&nbsp;&nbsp; [What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands); [Practical information about Maastricht ](#Practical-information-about-Maastricht); [Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
+---
+
+In this page, you will find: 
+
+- [Preliminary program](#Preliminary-program)  
+  - [Hackathon sessions](#Hackathon-sessions); [Learning sessions](#Learning-sessions); [Invited speakers](#Invited-speakers); [Walk/hike](#Walk/hike)    
+- [Participants](#Participants)  
+- [Staying, eating, and travelling](Staying-eating-travelling)    
+  - [Accommodation](#Accommodation); [Meals](#Meals); [Transportation](#Transportation)  
+- [Tips](#Tips)   
+  - [What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands); [Practical information about Maastricht ](#Practical-information-about-Maastricht); [Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
+
+---
 
 ## Preliminary program
 
