@@ -86,12 +86,15 @@ Members of the community who cannot join - We will miss you!
 - Public transportation in The Netherlands is very reliable
 - You can schedule your trip at [ns.nl](https://www.ns.nl/en)
 - Recommendations: 
-  - At Amsterdam Schipol international airport, train tracks are in the airport hall. You do not need to leave the airport building. Buy the ticket in the hall, and go downstairs to the tracks
+  - At Amsterdam Schipol international airport, train tracks are in the airport hall. You do *not* need to leave the airport building. Buy the ticket in the hall, go downstairs to the tracks, and enjoy the trip!
     ![](./figures/schipol_trains.png)
   - From Amsterdam Schipol international airport to Maastricht train station: the trip takes about 2h45min. We recommend to change in Utrecht or 'S-Hertogenbosch (not Amsterdam) 
   - From Maastricht train station to The Student Hotel:
-    - By bus: right outside of the train station, but terminals are on the right side. You can buy the ticket on the bus. Several buses go to The Student Hotel
+    - By bus: Go outside of the train station, and find bus terminals are on the right. You can buy the ticket on the bus. Several buses go to The Student Hotel
       ![](./figures/maastricht_buses.png)   
+    - On foot: You can walk through downtown and enjoy the athmosphere! 
+      ![](./figures/maastricht_walking.png)  
+
 - Reimbursements: 
   - Form: coming soon
   - Where to ask questions: coming soon 
