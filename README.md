@@ -84,7 +84,9 @@ Members of the community who cannot join - We will miss you!
 
 ### Transportation 
 - Public transportation in The Netherlands is very reliable. You can schedule your trips at [ns.nl](https://www.ns.nl/en)
-- Reimbursements: TBD
+- Reimbursements: 
+  - Form: coming soon
+  - Where to ask questions: coming soon 
 
 ---
 
