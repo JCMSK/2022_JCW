@@ -5,6 +5,11 @@ Dates: June 9-11, 2022
 
 Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxcour 9A, 6211 XZ Maastricht, The Netherlands 
 
+[Preliminary program](#Preliminary-program)  
+&nbsp; [Hackathon sessions](#Hackathon-sessions)
+
+
+
 ## Preliminary program:
 
 ![](./figure/program_draft.png)
