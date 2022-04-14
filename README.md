@@ -27,11 +27,10 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 
 ### Hackathon sessions
 
-- Topics:
-  - Biomechanics: coming soon!
-  - SPECTRA: coming soon! 
-  - knee/ITK: coming soon! 
-  - Muscle: coming soon! 
+- Topics at the links:
+  - [Biomechanics group](./hackathons/biomech.pdf) 
+  - [SPECTRA]()
+  - [Muscle group]()
 
 ### Learning sessions
 
