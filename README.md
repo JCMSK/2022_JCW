@@ -86,8 +86,8 @@ Members of the community who cannot join - We will miss you!
 - Public transportation in The Netherlands is very reliable
 - You can schedule your trip at [ns.nl](https://www.ns.nl/en)
 - Recommendations: 
-  - At Amsterdam Schipol international airport, train tracks are in the airport hall. Buy the ticket in the hall, and go downstairs to the tracks
-    ![](trains_schiphol.jpg)
+  - At Amsterdam Schipol international airport, train tracks are in the airport hall. You do not need to leave the airport building. Buy the ticket in the hall, and go downstairs to the tracks
+    ![](train_schiphol.jpg)
   
 
   - From Amsterdam Schipol international airport to Maastricht train station: the trip takes about 2h45min. We recommend to change in Utrecht or 'S-Hertogenbosch (not Amsterdam) 
