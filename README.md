@@ -34,7 +34,7 @@ In this page, you will find:
 ### Tutorials
 
 - Instructors:
-  - Jupyter/Python: Serena Bonaretti, who else?
+  - Jupyter/Python: [Serena Bonaretti](https://sbonaretti.github.io/), who else?
   - ITK: [Dženan Zukić](https://www.kitware.com/dzenan-zukic/) and [Jared Vicory](https://www.kitware.com/jared-vicory/)  
 - Learning material:
   - Jupyter/Python: coming soon! 
