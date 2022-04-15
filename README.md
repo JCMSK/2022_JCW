@@ -10,7 +10,7 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 In this page, you will find: 
 
 - [Preliminary program](#Preliminary-program)  
-  - [Hackathon sessions](#Hackathon-sessions); [Learning sessions](#Learning-sessions); [Invited speakers](#Invited-speakers); [Walk/hike](#Walk/hike)    
+  - [Hackathon sessions](#Hackathon-sessions); [Tutorials](#Tutorials); [Invited speakers](#Invited-speakers); [Walk/hike](#Walk/hike)    
 - [Participants](#Participants)  
 - [Staying, eating, and travelling](Staying-eating-travelling)    
   - [Accommodation](#Accommodation); [Meals](#Meals); [Transportation](#Transportation)  
@@ -31,7 +31,7 @@ In this page, you will find:
   - [SPECTRA](./hackathons/spectra.pdf) 
   - [Muscle group](./hackathons/muscle.pdf) 
 
-### Learning sessions
+### Tutorials
 
 - Instructors:
   - Jupyter/Python: Serena Bonaretti, who else?
