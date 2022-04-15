@@ -38,7 +38,7 @@ In this page, you will find:
   - ITK: [Dženan Zukić](https://www.kitware.com/dzenan-zukic/) and [Jared Vicory](https://www.kitware.com/jared-vicory/)  
 - Learning material:
   - Jupyter/Python: coming soon! 
-  - ITK: aims [here](./learning/itk.pdf)
+  - ITK: aims [here](./tutorials/itk.pdf)
 
 ### Invited speakers
 - [Lorena Barba](https://about.me/lorenabarba)
