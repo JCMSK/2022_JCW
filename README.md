@@ -90,7 +90,9 @@ Members of the community who cannot join - We will miss you!
 
 ### Accommodation
 - Where: [The Student Hotel](https://www.thestudenthotel.com/maastricht/) 
-- Check in: Wednesday, June 8 2022. Check out: Saturday, June 11, 2022. Total nights: 3
+- Check in: Wednesday, June 8 2022
+- Check out: Saturday, June 11, 2022 
+- Number of nights: 3
 
 ### Meals
 - Breakfast: June 9-11
