@@ -89,7 +89,7 @@ Members of the community who cannot join - We will miss you!
 ## Staying, eating, and travelling
 
 ### Accommodation
-- Where: [The Student Hotel](https://www.thestudenthotel.com/maastricht/) 
+- Where: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxcour 9A, 6211 XZ Maastricht, The Netherlands
 - Check in: Wednesday, June 8 2022
 - Check out: Saturday, June 11, 2022 
 - Number of nights: 3
