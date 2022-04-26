@@ -90,7 +90,7 @@ Members of the community who cannot join - We will miss you!
 
 ### Accommodation
 - Where: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxcour 9A, 6211 XZ Maastricht, The Netherlands
-- Check in: Wednesday, June 8 2022
+- Check in: Wednesday, June 8, 2022
 - Check out: Saturday, June 11, 2022 
 - Number of nights: 3
 
@@ -107,7 +107,7 @@ Members of the community who cannot join - We will miss you!
 - Recommendations: 
   - At Amsterdam Schipol International Airport, train tracks are in the airport hall. You do *not* need to leave the airport building. Buy the ticket in the hall, go downstairs to the tracks, and enjoy the trip!
     ![](./figures/schipol_trains.png)
-  - From Amsterdam Schipol International Airport to Maastricht: The trip takes about 2h45'. We recommend to transfer in Utrecht or 'S-Hertogenbosch (not Amsterdam) 
+  - From Amsterdam Schipol International Airport to Maastricht: The trip takes about 2h45'. We recommend to transfer in Utrecht or 'S-Hertogenbosch (not Amsterdam). *Important*: **Sit in the front of the train**. Sometimes (mainly late at night) the train splits in 2 parts in Eindhoven. The head of the train goes to Maastricht, and the tail of the train goes to Venlo. They communicate the split on the train, but it often is only in Dutch
   - From Maastricht train station to The Student Hotel:
     - By bus: Go outside the train station, and find bus terminals on the right. You can buy a ticket on the bus. Several buses go to The Student Hotel and they are very frequent
       ![](./figures/maastricht_buses.png)   
