@@ -60,9 +60,9 @@ In this page, you will find:
 - [Gianluca	Iori](https://github.com/gianthk)
 - [Gianluigi	Crimi](https://www.ior.it/en/ricerca-e-innovazione/gianluigi-crimi)
 - [Giulia	Fraterrigo](https://www.ior.it/en/ricerca-e-innovazione/ing-giulia-fraterrigo)
-- Giulia	Colelli
 - [Jared Vicory](https://www.kitware.com/jared-vicory/)
 - [Jilmen	Quintiens](https://www.kuleuven.be/wieiswie/nl/person/00139075)
+- Judith Fernandez
 - [Justin	Tse](https://cumming.ucalgary.ca/labs/manske/our-team/justin-tse)
 - [Kathryn	Stok](https://biomedical.eng.unimelb.edu.au/integrative-cartilage/people)
 - Leonardo	Barzaghi
