@@ -62,7 +62,7 @@ In this page, you will find:
 - [Giulia	Fraterrigo](https://www.ior.it/en/ricerca-e-innovazione/ing-giulia-fraterrigo)
 - [Jared Vicory](https://www.kitware.com/jared-vicory/)
 - [Jilmen	Quintiens](https://www.kuleuven.be/wieiswie/nl/person/00139075)
-- Judith Fernandez
+- [Judith Fernandez](https://nl.linkedin.com/in/judith-cueto-fernandez-903a97150)
 - [Justin	Tse](https://cumming.ucalgary.ca/labs/manske/our-team/justin-tse)
 - [Kathryn	Stok](https://biomedical.eng.unimelb.edu.au/integrative-cartilage/people)
 - Leonardo	Barzaghi
