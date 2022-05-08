@@ -9,7 +9,7 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 
 In this page, you will find: 
 
-- [Preliminary program](#Preliminary-program)  
+- [Program](#Program)  
   - [Hackathon sessions](#Hackathon-sessions); [Tutorials](#Tutorials); [Invited speakers](#Invited-speakers); [Walk/hike](#Walk/hike)    
 - [Participants](#Participants)  
 - [Staying, eating, and travelling](#Staying,-eating,-travelling)    
@@ -19,7 +19,7 @@ In this page, you will find:
 
 ---
 
-## Preliminary program
+## Program
 
 ![](./figures/program.png)
 
