@@ -21,7 +21,7 @@ In this page, you will find:
 
 ## Preliminary program
 
-![](./figures/program_draft.png)
+![](./figures/program.png)
 
 
 ### Hackathon sessions
@@ -34,7 +34,7 @@ In this page, you will find:
 ### Tutorials
 
 - Instructors:
-  - Jupyter/Python: [Serena Bonaretti](https://sbonaretti.github.io/), who else?
+  - Jupyter/Python: [Serena Bonaretti](https://sbonaretti.github.io/)
   - ITK: [Dženan Zukić](https://www.kitware.com/dzenan-zukic/) and [Jared Vicory](https://www.kitware.com/jared-vicory/)  
 - Learning material:
   - Jupyter/Python: coming soon! 
@@ -42,7 +42,7 @@ In this page, you will find:
 
 ### Invited speakers
 - [Lorena Barba](https://about.me/lorenabarba)
-- TBD
+- [Chris Holdgraf](https://predictablynoisy.com/)
 
 
 ### Walk/hike
