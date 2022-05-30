@@ -44,7 +44,7 @@ In this page, you will find:
   - Jupyter/Python: coming soon! 
   - ITK: aims [here](./tutorials/itk.pdf)
 
-<a>name="invitedspeakers</a>
+<a>name="invitedspeakers"</a>
 ### Invited speakers
 - [Lorena Barba](https://about.me/lorenabarba)
 - [Chris Holdgraf](https://predictablynoisy.com/)
