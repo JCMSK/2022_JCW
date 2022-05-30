@@ -19,13 +19,13 @@ In this page, you will find:
 
 ---
 
-<a>name="program</a>
+<a>name="program"</a>
 ## Program
 
 ![](./figures/program.png)
 
 
-<a>name="hackathon</a>
+<a>name="hackathon"</a>
 ### Hackathon sessions
 
 - Topics and aims at these links:
@@ -34,7 +34,7 @@ In this page, you will find:
   - [Muscle group](./hackathons/muscle.pdf) 
 
 
-<a>name="tutorials</a>
+<a>name="tutorials"</a>
 ### Tutorials
 
 - Instructors:
@@ -49,12 +49,12 @@ In this page, you will find:
 - [Lorena Barba](https://about.me/lorenabarba)
 - [Chris Holdgraf](https://predictablynoisy.com/)
 
-<a>name="walk</a>
+<a>name="walk"</a>
 ### Walk/hike
 - Fort Sint Pieter and the caves
 - Just wear comfortable shoes. No special attire is needed!
 
-<a>name="participants</a>
+<a>name="participants"</a>
 ## Participants
 - [Andrew	Burghardt](https://profiles.ucsf.edu/andrew.burghardt)
 - [Andy Kin On Wong](https://www.uhnresearch.ca/researcher/andy-kin-wong)
@@ -92,17 +92,17 @@ Members of the community who cannot join - We will miss you!
 
 ---
 
-<a>name="stayingeatingtravelling</a>
+<a>name="stayingeatingtravelling"</a>
 ## Staying, eating, and travelling
 
-<a>name="accommodation</a>
+<a>name="accommodation"</a>
 ### Accommodation
 - Where: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxcour 9A, 6211 XZ Maastricht, The Netherlands
 - Check in: Wednesday, June 8, 2022
 - Check out: Saturday, June 11, 2022 
 - Number of nights: 3
 
-<a>name="meals</a>
+<a>name="meals"</a>
 ### Meals
 - Welcome drinks on June 8 at [Bold](https://www.boldrooftopbar.com/) (not covered by NUMFocus)     
 - Breakfast: June 9-11
@@ -111,7 +111,7 @@ Members of the community who cannot join - We will miss you!
 - Dinner on June 9 at [Tapijn Brasserie](https://www.tapijn.nl/)
 - Dinner on June 10 at [Lumière](https://lumiere.nl/)
 
-<a>name="transportation</a>
+<a>name="transportation"</a>
 ### Transportation 
 - Public transportation in The Netherlands is very reliable
 - You can schedule your trip at [ns.nl](https://www.ns.nl/en)
@@ -126,7 +126,7 @@ Members of the community who cannot join - We will miss you!
       ![](./figures/maastricht_walking.png)  
   - How to get to [QMSKI](https://qmski.org/): Take the train from Maastricht to Noordwijk. We recommended to transfers in Eindhoven and Den Haag (not Amsterdam). The trip takes about 3h30'. If you are on a budget, we recommend to book a hotel room in Maastricht for Sat/Sun, and travel on Sunday
 
-<a>name="remibursements</a>
+<a>name="remibursements"</a>
 ### Travel reimbursements
 - Travel reimbursements are only for participants from European and Middle Eastern institutions. We apologies to the people who come from other continents. The budget for traveling was limited and we wanted to reimburse as many people as possible 
 - Reimbursement form: [here](https://numfocus.typeform.com/to/O4K2Zol6?typeform-source=numfocus.org). Special items to fill out:
@@ -142,22 +142,22 @@ Members of the community who cannot join - We will miss you!
 - Where to ask questions: coming soon 
 
 ---
-<a>name="tips</a>
+<a>name="tips"</a>
 ## Tips
 
-<a>name="needtoknow</a>
+<a>name="needtoknow"</a>
 ### What you need to know about the Netherlands
 - Bikers are always right! 
 - Coffee shop &#8800; coffe place!
 
-<a>name="practicalinfo</a>
+<a>name="practicalinfo"</a>
 ### Practical information about Maastricht 
 - Shop hours: 10am-6pm; Sundays: 12pm-6pm
 - It might rain: have an umbrella or a raincoat!
 - Everybody speaks English!
 - If you want to go out for dinner on Saturday night, consider reserving before. Also, restaurants usually do not accept big groups over the weekend
 
-<a>name="thingstodo</a>
+<a>name="thingstodo"</a>
 ### Things to do or see in Maastricht
 - Enjoy downtown, with its restaurants, shops, ancient walls, squares, and churches
 - [Dominicanen Boekhandel](https://libris.nl/dominicanen)
