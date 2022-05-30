@@ -9,8 +9,8 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 
 In this page, you will find: 
 
-- [Program](#Program)  
-  - [Hackathon sessions](#Hackathon-sessions); [Tutorials](#Tutorials); [Invited speakers](#Invited-speakers); [Walk/hike](#Walk/hike)    
+- [Program](#program)  
+  - [Hackathon sessions](hackathon); [Tutorials](tutorials); [Invited speakers](invitedspeakers); [Walk/hike](walk)    
 - [Participants](#Participants)  
 - [Staying, eating, and travelling](#Staying,-eating,-travelling)    
   - [Accommodation](#Accommodation); [Meals](#Meals); [Transportation](#Transportation); [Travel reimbursements](#Travel-reimbursements)  
@@ -19,11 +19,13 @@ In this page, you will find:
 
 ---
 
+<a>name="program</a>
 ## Program
 
 ![](./figures/program.png)
 
 
+<a>name="hackathon</a>
 ### Hackathon sessions
 
 - Topics and aims at these links:
@@ -31,6 +33,8 @@ In this page, you will find:
   - [SPECTRA](./hackathons/spectra.pdf) 
   - [Muscle group](./hackathons/muscle.pdf) 
 
+
+<a>name="tutorials</a>
 ### Tutorials
 
 - Instructors:
@@ -40,11 +44,12 @@ In this page, you will find:
   - Jupyter/Python: coming soon! 
   - ITK: aims [here](./tutorials/itk.pdf)
 
+<a>name="invitedspeakers</a>
 ### Invited speakers
 - [Lorena Barba](https://about.me/lorenabarba)
 - [Chris Holdgraf](https://predictablynoisy.com/)
 
-
+<a>name="walk</a>
 ### Walk/hike
 - Fort Sint Pieter and the caves
 - Just wear comfortable shoes. No special attire is needed!
@@ -118,7 +123,15 @@ Members of the community who cannot join - We will miss you!
 
 ### Travel reimbursements
 - Travel reimbursements are only for participants from European and Middle Eastern institutions. We apologies to the people who come from other continents. The budget for traveling was limited and we wanted to reimburse as many people as possible 
-- Reimbursement form: [here](https://numfocus.typeform.com/to/O4K2Zol6?typeform-source=numfocus.org)
+- Reimbursement form: [here](https://numfocus.typeform.com/to/O4K2Zol6?typeform-source=numfocus.org). Special items to fill out:
+  - 3 -> Project:
+    *JCW: Building the Jupyter community in MSK imaging research* 
+  - 4 -> Are you submitting a reimbursement request or invoicing for work you have done?
+    *Reimbursement request*
+  - 5 -> If the request is for a grant, special initiative, or event please indicate this below, otherwise enter "none"
+    *Jupyte Community Workshop - Travel reimbursement*
+  - 9 -> If you will be paid more than $600 in the current calendar year (for all payments combined) and you have not provided us with a tax form please upload one now. 
+    *Discard this!* 
 - Reimbursement guidelines: coming soon
 - Where to ask questions: coming soon 
 
