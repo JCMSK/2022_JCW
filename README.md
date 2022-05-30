@@ -12,7 +12,7 @@ In this page, you will find:
 - [Program](#Program)  
   - [Hackathon sessions](#hackathon-sessions); [Tutorials](#tutorials); [Invited speakers](#invited-speakers); [Walk/hike](#walkhike)    
 - [Participants](#participants)  
-- [Staying, eating, and travelling](#staying-eating-travelling)    
+- [Staying, eating, and travelling](#stayingeatingtravelling)    
   - [Accommodation](#accommodation); [Meals](#meals); [Transportation](#transportation); [Travel reimbursements](#travel-reimbursements)  
 - [Tips](#tips)   
   - [What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands); [Practical information about Maastricht](#Practical-information-about-Maastricht); [Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
