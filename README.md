@@ -122,7 +122,7 @@ Members of the community who cannot join - We will miss you!
 
 ### Travel reimbursements
 - Travel reimbursements are only for participants from European and Middle Eastern institutions. We apologies to the people who come from other continents. The budget for traveling was limited and we wanted to reimburse as many people as possible 
-- Reimbursement form: [here](https://numfocus.typeform.com/to/O4K2Zol6?typeform-source=numfocus.org). Special items to fill out:
+- Reimbursement form: [here](https://numfocus.typeform.com/to/O4K2Zol6?typeform-source=numfocus.org). Suggestions for some of the questions:
   - 3 -> Project:
     *JCW: Building the Jupyter community in MSK imaging research* 
   - 4 -> Are you submitting a reimbursement request or invoicing for work you have done?
