@@ -35,7 +35,7 @@ In this page, you will find:
 
 ### Tutorials
 
-- Please, [install](https://www.anaconda.com/products/distribution) Anaconda *before* the workshop! 
+- Please, [install Anaconda](https://www.anaconda.com/products/distribution) *before* the workshop! 
 - *Intro to the Jupyter ecosystem and Python* and *Second layer analysis: Pandas and Matplotlib*  
   - Instructor: [Serena Bonaretti](https://sbonaretti.github.io/)
   - Material: [here](https://github.com/sbonaretti/2022_JCWMSK_tutorials)
