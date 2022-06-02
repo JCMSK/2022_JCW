@@ -121,18 +121,16 @@ Members of the community who cannot join - We will miss you!
   - How to get to [QMSKI](https://qmski.org/): Take the train from Maastricht to Noordwijk. We recommended to transfers in Eindhoven and Den Haag (not Amsterdam). The trip takes about 3h30'. If you are on a budget, we recommend to book a hotel room in Maastricht for Sat/Sun, and travel on Sunday
 
 ### Travel reimbursements
-- Travel reimbursements are only for participants from European and Middle Eastern institutions. We apologies to the people who come from other continents. The budget for traveling was limited and we wanted to reimburse as many people as possible 
-- Reimbursement form: [here](https://numfocus.typeform.com/to/O4K2Zol6?typeform-source=numfocus.org). Suggestions for some of the questions:
-  - 3 -> Project:
-    *JCW: Building the Jupyter community in MSK imaging research* 
-  - 4 -> Are you submitting a reimbursement request or invoicing for work you have done?
-    *Reimbursement request*
-  - 5 -> If the request is for a grant, special initiative, or event please indicate this below, otherwise enter "none"
-    *Jupyte Community Workshop - Travel reimbursement*
-  - 9 -> If you will be paid more than $600 in the current calendar year (for all payments combined) and you have not provided us with a tax form please upload one now. 
-    *Discard this!* 
-- Reimbursement guidelines: coming soon
-- Where to ask questions: coming soon 
+- Travel reimbursements are only for participants from European and Middle Eastern institutions. We apologize to the people who come from other continents. The budget for traveling was limited and we wanted to reimburse as many people as possible 
+- Do get a reimbursement, there are 2 steps:
+  1. Send Serena an email with the amount of your reimbursement
+  2. Fill out this [reimbursement form]( https://numfocus.typeform.com/to/ohD1BM). Suggestions for some of the questions:
+    - 1 -> Workshop Name:
+      *E: Building the Jupyter community in MSK imaging research* 
+    - 4 -> Category
+      *Travel*
+    - 7-12 -> Your institution address
+- Reimbursement guidelines: [here](https://docs.google.com/document/d/1BScRQQnMzppkZmmQvdBKyCoum2Rzh9W3q2JgllPU4rI/edit?usp=sharing)
 
 ---
 ## Tips
