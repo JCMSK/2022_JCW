@@ -50,7 +50,8 @@ In this page, you will find:
 
 ### Walk/hike
 - Fort Sint Pieter and the caves
-- Just wear comfortable shoes. No special attire is needed!
+- Just wear comfortable shoes. No special attire is needed!   
+- Consider bringing raincoat/umbrella in case of rain!  
 
 
 ## Participants
