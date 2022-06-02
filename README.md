@@ -49,7 +49,7 @@ In this page, you will find:
 
 
 ### Walk/hike
-- Fort Sint Pieter and the caves
+- Fort Sint Pieter and the Caves
 - Just wear comfortable shoes. No special attire is needed!   
 - Consider bringing raincoat/umbrella in case of rain!  
 
@@ -111,20 +111,20 @@ Members of the community who cannot join - We will miss you!
 - Public transportation in The Netherlands is very reliable
 - You can schedule your trip at [ns.nl](https://www.ns.nl/en)
 - Recommendations: 
-  - At Amsterdam Schipol International Airport, train tracks are in the airport hall. You do *not* need to leave the airport building. Buy the ticket in the hall, go downstairs to the tracks, and enjoy the trip!
+  - At Amsterdam Schipol International Airport, train tracks are at the airport hall. You do *not* need to leave the airport building. Buy the ticket in the hall, go downstairs to the tracks, and enjoy the trip!
     ![](./figures/schipol_trains.png)
-  - From Amsterdam Schipol International Airport to Maastricht: The trip takes about 2h45'. We recommend to transfer in Utrecht or 'S-Hertogenbosch (not Amsterdam). *Important*: **Sit in the front of the train**. Sometimes (mainly late at night) the train splits in 2 parts in Eindhoven. The head of the train goes to Maastricht, and the tail of the train goes to Venlo. They communicate the split on the train, but it often is only in Dutch
+  - From Amsterdam Schipol International Airport to Maastricht: The trip takes about 2h45'. Consider transfering in Utrecht or 'S-Hertogenbosch (not Amsterdam). *Important*: **Sit in the front of the train**. Sometimes (mainly late at night) the train splits in 2 parts in Eindhoven. The head of the train goes to Maastricht, and the tail of the train goes to Venlo. They communicate the split on the train, but it often is only in Dutch
   - From Maastricht train station to The Student Hotel:
-    - By bus: Go outside the train station, and find bus terminals on the right. You can buy a ticket on the bus. Several buses go to The Student Hotel and they are very frequent
+    - By bus: Outside the train station, the bus terminals on the right. You can buy a ticket on the bus. Several buses go to The Student Hotel and they are very frequent
       ![](./figures/maastricht_buses.png)   
     - On foot: You can walk through downtown and enjoy the athmosphere! 
       ![](./figures/maastricht_walking.png)  
-  - How to get to [QMSKI](https://qmski.org/): Take the train from Maastricht to Noordwijk. We recommended to transfers in Eindhoven and Den Haag (not Amsterdam). The trip takes about 3h30'. If you are on a budget, we recommend to book a hotel room in Maastricht for Sat/Sun, and travel on Sunday
+  - How to get to [QMSKI](https://qmski.org/): Take the train from Maastricht to Noordwijk. The trip takes about 3h30'. Google Map is a reliable resource to plan your train trip. If you are on a budget, consider booking a hotel room in Maastricht for Sat/Sun, and then travel on Sunday
 
 ### Travel reimbursements
-- Travel reimbursements are only for participants from European and Middle Eastern institutions. We apologize to the people who come from other continents. The budget for traveling was limited and we wanted to reimburse as many people as possible 
-- Do get a reimbursement, there are 2 steps:
-  1. Send Serena an email with the amount of your reimbursement
+- Travel reimbursements are only for participants from European and Middle Eastern institutions. Apologies to the people who come from other continents. The budget for traveling was limited and the criterion was to reimburse as many people as possible 
+- To get a reimbursement, there are 2 steps:
+  1. Send Serena an email with the amount you are requesting and a copy of the expenses receipts 
   2. Fill out this [reimbursement form]( https://numfocus.typeform.com/to/ohD1BM). Suggestions for some of the questions:
     - 1 -> Workshop Name:
       *E: Building the Jupyter community in MSK imaging research* 
