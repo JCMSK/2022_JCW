@@ -35,13 +35,13 @@ In this page, you will find:
 
 ### Tutorials
 
-- Instructors:
-  - Jupyter/Python: [Serena Bonaretti](https://sbonaretti.github.io/)
-  - ITK: [Dženan Zukić](https://www.kitware.com/dzenan-zukic/) and [Jared Vicory](https://www.kitware.com/jared-vicory/)  
-- Learning material:
-  - Jupyter/Python: coming soon! 
-  - ITK: aims [here](./tutorials/itk.pdf)
 - Please, [install](https://www.anaconda.com/products/distribution) Anaconda *before* the workshop! 
+- *Intro to the Jupyter ecosystem and Python* and *Second layer analysis: Pandas and Matplotlib*  
+  - Instructor: [Serena Bonaretti](https://sbonaretti.github.io/)
+  - Material: [here](https://github.com/sbonaretti/2022_JCWMSK_tutorials)
+- *First layer analysis: ITK*
+  - Instructors: [Dženan Zukić](https://www.kitware.com/dzenan-zukic/) and [Jared Vicory](https://www.kitware.com/jared-vicory/)  
+  - Aims [here](./tutorials/itk.pdf)
 
 
 ### Invited speakers
