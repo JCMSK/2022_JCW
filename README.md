@@ -41,7 +41,7 @@ In this page, you will find:
   - Material: [here](https://github.com/sbonaretti/2022_JCWMSK_tutorials)
 - *First layer analysis: ITK*
   - Instructors: [Dženan Zukić](https://www.kitware.com/dzenan-zukic/) and [Jared Vicory](https://www.kitware.com/jared-vicory/)  
-  - Aims [here](./tutorials/itk.pdf)
+  - Aims: [here](./tutorials/itk.pdf)
 
 
 ### Invited speakers
