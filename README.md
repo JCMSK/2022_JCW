@@ -10,7 +10,7 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 In this page, you will find: 
 
 - [Program](#Program)  
-  - [Hackathon sessions](#hackathon-sessions); [Tutorials](#tutorials); [Invited speakers](#invited-speakers); [Walk/hike](#walkhike)    
+  - [Hackathons](#hackathons); [Tutorials](#tutorials); [Invited speakers](#invited-speakers); [Walk/hike](#walkhike)    
 - [Participants](#participants)  
 - [Staying, eating, and travelling](#stayingeatingtravelling)    
   - [Accommodation](#accommodation); [Meals](#meals); [Transportation](#transportation); [Travel reimbursements](#travel-reimbursements)  
@@ -25,7 +25,7 @@ In this page, you will find:
 
 
 
-### Hackathon sessions
+### Hackathons
 
 - Topics and aims at these links:
   - [Biomechanics group](./hackathons/biomech.pdf) 
