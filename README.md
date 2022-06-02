@@ -106,7 +106,7 @@ Members of the community who cannot join - We will miss you!
 - Coffee break: June 9-11
 - Lunch: June 9-11
 - Dinner on June 9 at [Tapijn Brasserie](https://www.tapijn.nl/)
-- Dinner on June 10 at [Stan]([https://lumiere.nl/](https://www.stan-restaurant.nl/en/locations/maastricht/)
+- Dinner on June 10 at [Stan](https://www.stan-restaurant.nl/en/locations/maastricht/)
 
 ### Transportation 
 - Public transportation in The Netherlands is very reliable
