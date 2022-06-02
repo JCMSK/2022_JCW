@@ -41,6 +41,7 @@ In this page, you will find:
 - Learning material:
   - Jupyter/Python: coming soon! 
   - ITK: aims [here](./tutorials/itk.pdf)
+- Please, [install](https://www.anaconda.com/products/distribution) Anaconda *before* the workshop! 
 
 
 ### Invited speakers
