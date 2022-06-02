@@ -110,7 +110,7 @@ Members of the community who cannot join - We will miss you!
 
 ### Transportation 
 - Public transportation in The Netherlands is very reliable
-- You can schedule your trip at [ns.nl](https://www.ns.nl/en)
+- You can schedule your trip at [ns.nl](https://www.ns.nl/en). If you travel internationally (e.g. from Brussels airport), you can schedule your trip at [nsinternational.com](https://www.nsinternational.com/en)  
 - Recommendations: 
   - At Amsterdam Schipol International Airport, train tracks are at the airport hall. You do *not* need to leave the airport building. Buy the ticket in the hall, go downstairs to the tracks, and enjoy the trip!
     ![](./figures/schipol_trains.png)
