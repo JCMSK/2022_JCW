@@ -13,7 +13,7 @@ In this page, you will find:
   - [Hackathons](#hackathons), [Tutorials](#tutorials), [Invited speakers](#invited-speakers), [Walk/hike](#walkhike)    
 - [Participants](#participants)  
 - [Staying, eating, and travelling](#stayingeatingtravelling)    
-  - [Accommodation](#accommodation), [Meals](#meals), [Transportation](#transportation), [Travel reimbursements](#travel-reimbursements)  
+  - [Accommodation](#accommodation), [Meals](#meals), [Public Transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
 - [Tips](#tips)   
   - [What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands), [Practical information about Maastricht](#Practical-information-about-Maastricht), [Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
 
@@ -108,9 +108,10 @@ Members of the community who cannot join - We will miss you!
 - Dinner on June 9 at [Tapijn Brasserie](https://www.tapijn.nl/)
 - Dinner on June 10 at [Stan](https://www.stan-restaurant.nl/en/locations/maastricht/)
 
-### Transportation 
+### Public transportation 
 - Public transportation in The Netherlands is very reliable
-- You can schedule your trip at [ns.nl](https://www.ns.nl/en). If you travel internationally (e.g. from Brussels airport), you can schedule your trip at [nsinternational.com](https://www.nsinternational.com/en)  
+- If you travel nationally, you can schedule your trip at [ns.nl](https://www.ns.nl/en).  
+- If you travel internationally (e.g. from Brussels airport), you can schedule your trip at [nsinternational.com](https://www.nsinternational.com/en)  
 - Recommendations: 
   - At Amsterdam Schipol International Airport, train tracks are at the airport hall. You do *not* need to leave the airport building. Buy the ticket in the hall, go downstairs to the tracks, and enjoy the trip!
     ![](./figures/schipol_trains.png)
