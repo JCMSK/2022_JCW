@@ -26,12 +26,11 @@ In this page, you will find:
 
 
 ### Hackathons
-
 - Topics and aims at these links:
   - [Biomechanics group](./hackathons/biomech.pdf) 
   - [SPECTRA](./hackathons/spectra.pdf) 
   - [Muscle group](./hackathons/muscle.pdf) 
-
+- Please, follow the [coding guidelines](https://jcmsk.github.io/for_contributors.html)!
 
 ### Tutorials
 
