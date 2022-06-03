@@ -114,13 +114,18 @@ Members of the community who cannot join - We will miss you!
 - If you travel internationally (e.g. from/to Brussels airport), you can schedule your trip at [nsinternational.com](https://www.nsinternational.com/en)  
 - Recommendations: 
   - At Amsterdam Schipol International Airport, train tracks are at the airport hall. You do *not* need to leave the airport building. Buy the ticket in the hall, go downstairs to the tracks, and enjoy the trip!
-    ![](./figures/schipol_trains.png)
+    
+    <img src="./figures/schipol_trains.png" width="700">
+    
   - From Amsterdam Schipol International Airport to Maastricht: The trip takes about 2h45'. Consider transfering in Utrecht or 'S-Hertogenbosch (not Amsterdam). *Important*: **Sit in the front of the train**. Sometimes (mainly late at night) the train splits in 2 parts in Eindhoven. The head of the train goes to Maastricht, and the tail of the train goes to Venlo. They communicate the split on the train, but it often is only in Dutch
   - From Maastricht train station to The Student Hotel:
     - By bus: Outside the train station, the bus terminals are on the right. You can buy a ticket on the bus. Several buses go to The Student Hotel and they are very frequent
-      ![](./figures/maastricht_buses.png)   
+     
+      <img src="./figures/maastricht_buses.png" width="600">
+  
     - On foot: You can walk through downtown and enjoy the athmosphere! 
-      ![](./figures/maastricht_walking.png)  
+      <img src="./figures/maastricht_walking.png" width="600">
+    
   - How to get to [QMSKI](https://qmski.org/): Take the train from Maastricht to Noordwijk. The trip takes about 3h30'. Google Map is a reliable resource to plan your train trip. If you are on a budget, consider booking a hotel room in Maastricht for Sat/Sun, and then travel on Sunday
 
 ### Travel reimbursements
