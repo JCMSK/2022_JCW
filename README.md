@@ -117,7 +117,7 @@ Members of the community who cannot join - We will miss you!
     ![](./figures/schipol_trains.png)
   - From Amsterdam Schipol International Airport to Maastricht: The trip takes about 2h45'. Consider transfering in Utrecht or 'S-Hertogenbosch (not Amsterdam). *Important*: **Sit in the front of the train**. Sometimes (mainly late at night) the train splits in 2 parts in Eindhoven. The head of the train goes to Maastricht, and the tail of the train goes to Venlo. They communicate the split on the train, but it often is only in Dutch
   - From Maastricht train station to The Student Hotel:
-    - By bus: Outside the train station, the bus terminals on the right. You can buy a ticket on the bus. Several buses go to The Student Hotel and they are very frequent
+    - By bus: Outside the train station, the bus terminals are on the right. You can buy a ticket on the bus. Several buses go to The Student Hotel and they are very frequent
       ![](./figures/maastricht_buses.png)   
     - On foot: You can walk through downtown and enjoy the athmosphere! 
       ![](./figures/maastricht_walking.png)  
