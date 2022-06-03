@@ -30,7 +30,7 @@ In this page, you will find:
   - [Biomechanics group](./hackathons/biomech.pdf) 
   - [SPECTRA](./hackathons/spectra.pdf) 
   - [Muscle group](./hackathons/muscle.pdf) 
-- Please, follow the [coding guidelines](https://jcmsk.github.io/for_contributors.html)!
+- Please follow the [coding guidelines](https://jcmsk.github.io/for_contributors.html)!
 
 ### Tutorials
 
