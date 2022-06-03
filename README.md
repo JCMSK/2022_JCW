@@ -126,7 +126,7 @@ Members of the community who cannot join - We will miss you!
     - On foot: You can walk through downtown and enjoy the athmosphere! 
       <img src="./figures/maastricht_walking.png" width="600">
     
-  - How to get to [QMSKI](https://qmski.org/): Take the train from Maastricht to Noordwijk. The trip takes about 3h30'. Google Map is a reliable resource to plan your train trip. If you are on a budget, consider booking a hotel room in Maastricht for Sat/Sun, and then travel on Sunday
+  - How to get to [QMSKI](https://qmski.org/): Take the train from Maastricht to Noordwijk. The trip takes about 3h30'. You can plan your trip on [ns.nl](https://www.ns.nl/en) or Google Maps. If you are on a budget, consider booking a hotel room in Maastricht for Sat/Sun, and then travel on Sunday
 
 ### Travel reimbursements
 - Travel reimbursements are only for participants from European and Middle Eastern institutions. Apologies to the people who come from other continents. The budget for traveling was limited and the criterion was to reimburse as many people as possible 
