@@ -150,8 +150,9 @@ Members of the community who cannot join - We will miss you!
 
 ### Things to do or see in Maastricht
 - Enjoy downtown, with its restaurants, shops, ancient walls, squares, and churches
-- [Dominicanen Boekhandel](https://libris.nl/dominicanen)
-- [De Bisschopsmolen](https://www.bisschopsmolen.nl/)
+- [Dominicanen Boekhandel](https://libris.nl/dominicanen): Gothic cathedral hosting a bookstore and a coffee place
+- [De Bisschopsmolen](https://nl.wikipedia.org/wiki/Bisschopsmolen_(Maastricht): Water mill from the 11th century, used to grind spelt, which is then used by [backery](https://www.bisschopsmolen.nl/) next door to bake bread, the typical [Limburg vlaai](https://en.wikipedia.org/wiki/Vlaai), and other bakery products
+- [Maastricht library](https://www.centreceramique.nl/): Hosting free exhibitions, with a gorgeous view of Maastricht from the 4th floor
 - Market on Friday: 8:00am - 2:00pm 
 - Ask for more!
 
