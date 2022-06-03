@@ -111,7 +111,7 @@ Members of the community who cannot join - We will miss you!
 ### Public transportation 
 - Public transportation in The Netherlands is very reliable
 - If you travel nationally, you can schedule your trip at [ns.nl](https://www.ns.nl/en)   
-- If you travel internationally (e.g. from Brussels airport), you can schedule your trip at [nsinternational.com](https://www.nsinternational.com/en)  
+- If you travel internationally (e.g. from/to Brussels airport), you can schedule your trip at [nsinternational.com](https://www.nsinternational.com/en)  
 - Recommendations: 
   - At Amsterdam Schipol International Airport, train tracks are at the airport hall. You do *not* need to leave the airport building. Buy the ticket in the hall, go downstairs to the tracks, and enjoy the trip!
     ![](./figures/schipol_trains.png)
@@ -127,7 +127,7 @@ Members of the community who cannot join - We will miss you!
 - Travel reimbursements are only for participants from European and Middle Eastern institutions. Apologies to the people who come from other continents. The budget for traveling was limited and the criterion was to reimburse as many people as possible 
 - To get a travel reimbursement, there are 2 steps to be done **by June 30, 2022**:       
   1. Send Serena an email with the amount you are requesting and a copy of the expense receipts in **one single .pdf file**       
-  2. Fill out this [reimbursement form]( https://numfocus.typeform.com/to/ohD1BM). Suggestions for some of the questions:
+  2. Fill out this [reimbursement form](https://numfocus.typeform.com/to/ohD1BM). Suggestions for some of the questions:
     - 1 -> Workshop Name:
       *E: Building the Jupyter community in MSK imaging research* 
     - 4 -> Category
