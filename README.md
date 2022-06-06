@@ -1,5 +1,6 @@
 # Building the Jupyter Community in MSK Imaging Research
 ## A Jupyter Community Workshop sponsored by [NUMFocus](https://numfocus.org/)
+## Organized by and for the [Jupyter Community in MSK Imaging Research](https://jcmsk.github.io/) 
 
 Dates: June 9-11, 2022
 
