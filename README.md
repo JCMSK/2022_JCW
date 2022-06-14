@@ -54,7 +54,7 @@ In this page, you will find:
 - [Lorena Barba](https://about.me/lorenabarba)
   - Presentation: coming soon! 
 - [Chris Holdgraf](https://predictablynoisy.com/)
-  - Presentation [here](https://t.co/8VAsBkyqJw)
+  - Presentation: [here](https://t.co/8VAsBkyqJw)
 
 
 ### Walk/hike
