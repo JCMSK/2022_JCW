@@ -187,4 +187,4 @@ Coming soon! (pending approval by NUMFocus)
 Link coming soon!
 
 ### Code for badges
-Find it [here](https://github.com/JCMSK/2022_JCW/tree/main/code_for_badges). It creates 3 2-sided bages per paper sheet.
+Find it [here](https://github.com/JCMSK/2022_JCW/tree/main/code_for_badges). It creates 3 two-sided bages per paper sheet.
