@@ -17,6 +17,8 @@ In this page, you will find:
   - [Accommodation](#accommodation), [Meals](#meals), [Public Transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
 - [Tips](#tips)   
   - [What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands), [Practical information about Maastricht](#Practical-information-about-Maastricht), [Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
+- [More](#more)   
+  - [Accepted proposal](#accepted-proposal), [Final budget](#final-budget), [Photos](#photos)
 
 ---
 
@@ -169,3 +171,14 @@ Members of the community who cannot join - We will miss you!
 - Market on Friday: 8:00am - 2:00pm 
 - Ask for more!
 
+---
+## More
+
+### Accepted proposal
+Coming soon! (pending approval by NUMFocus)
+
+### Final budget
+Coming soon! (pending approval by NUMFocus)
+
+### Photos
+Link coming soon!
