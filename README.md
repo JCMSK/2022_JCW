@@ -18,7 +18,7 @@ In this page, you will find:
 - [Tips](#tips)   
   - [What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands), [Practical information about Maastricht](#Practical-information-about-Maastricht), [Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
 - [More](#more)   
-  - [Accepted proposal](#accepted-proposal), [Final budget](#final-budget), [Photos](#photos)
+  - [Accepted proposal](#accepted-proposal), [Final budget](#final-budget), [Photos](#photos), [Code for badges](#code-for-badges)
 
 ---
 
@@ -185,3 +185,6 @@ Coming soon! (pending approval by NUMFocus)
 
 ### Photos
 Link coming soon!
+
+### Code for badges
+Find it [here](https://github.com/JCMSK/2022_JCW/tree/main/code_for_badges). It creates 3 2-sided bages per paper sheet.
