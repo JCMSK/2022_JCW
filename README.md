@@ -11,7 +11,7 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 In this page, you will find: 
 
 - [Program](#Program)  
-  - [Hackathons](#hackathons), [Tutorials](#tutorials), [Invited speakers](#invited-speakers), [Walk/hike](#walkhike)    
+  - [Hackathons](#hackathons), [Tutorials](#tutorials), [Invited speakers](#invited-speakers), [Walk/hike](#walkhike), [Others](#others)    
 - [Participants](#participants)  
 - [Staying, eating, and travelling](#stayingeatingtravelling)    
   - [Accommodation](#accommodation), [Meals](#meals), [Public Transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
@@ -63,6 +63,9 @@ In this page, you will find:
 - Fort Sint Pieter and the Caves
 - No special attire is needed. Just wear comfortable shoes    
 - Consider bringing raincoat/umbrella in case of rain!  
+
+### Others 
+- Welcome presentation: [.pdf](https://github.com/JCMSK/2022_JCW/blob/main/01_Welcome.pdf), [.pptx](https://github.com/JCMSK/2022_JCW/blob/main/01_Welcome.pptx)
 
 
 ## Participants
