@@ -11,14 +11,14 @@ Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxc
 In this page, you will find: 
 
 - [Program](#Program)  
-  - [Hackathons](#hackathons), [Tutorials](#tutorials), [Invited speakers](#invited-speakers), [Walk/hike](#walkhike), [Others](#others)    
+  - [Hackathons](#hackathons), [Tutorials](#tutorials), [Invited speakers](#invited-speakers), [Walk/hike](#walkhike), [Other material](#other material)    
 - [Participants](#participants)  
 - [Staying, eating, and travelling](#stayingeatingtravelling)    
   - [Accommodation](#accommodation), [Meals](#meals), [Public Transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
 - [Tips](#tips)   
   - [What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands), [Practical information about Maastricht](#Practical-information-about-Maastricht), [Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
 - [More](#more)   
-  - [Accepted proposal](#accepted-proposal), [Final budget](#final-budget), [Photos](#photos), [Code for badges](#code-for-badges), [NUMFocus blog post](NUMFocus-blog-post)
+  - [Accepted proposal](#accepted-proposal), [Final budget](#final-budget), [Photos](#photos), [Code for badges](#code-for-badges), [numfocus blog post](NUMFocus-blog-post)
 
 ---
 
@@ -64,7 +64,7 @@ In this page, you will find:
 - No special attire is needed. Just wear comfortable shoes    
 - Consider bringing raincoat/umbrella in case of rain!  
 
-### Others 
+### Other material 
 - Welcome presentation: [.pdf](https://github.com/JCMSK/2022_JCW/blob/main/01_Welcome.pdf), [.pptx](https://github.com/JCMSK/2022_JCW/blob/main/01_Welcome.pptx)
 
 
