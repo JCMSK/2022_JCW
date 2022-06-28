@@ -18,7 +18,7 @@ In this page, you will find:
 - [Tips](#tips)   
   - [What you need to know about the Netherlands](#What-you-need-to-know-about-the-Netherlands), [Practical information about Maastricht](#Practical-information-about-Maastricht), [Things to do or see in Maastricht](#Things-to-do-or-see-in-Maastricht)     
 - [More](#more)   
-  - [Accepted proposal](#accepted-proposal), [Final budget](#final-budget), [Photos](#photos), [Code for badges](#code-for-badges), [numfocus blog post](NUMFocus-blog-post)
+  - [Accepted proposal](#accepted-proposal), [Final budget](#final-budget), [Photos](#photos), [Code for badges](#code-for-badges), [NUMFocus blog post](numfocus-blog-post)
 
 ---
 
