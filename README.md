@@ -194,8 +194,11 @@ Coming soon! (pending approval by NUMFocus)
 #### Having fun!
 <img src="./pictures/fun_1.jpg" width="300"> <img src="./pictures/fun_2.jpg" width="300"> <img src="./pictures/fun_3.jpg" width="300">
 
-### Code for badges
-Find [here](https://github.com/JCMSK/2022_JCW/tree/main/code_for_badges) the code we used to create our badges. It creates 3 two-sided bages per paper sheet.
 
 ### NUMFocus blog post
 Coming soon!
+
+### Code for badges
+Find [here](https://github.com/JCMSK/2022_JCW/tree/main/code_for_badges) the code we used to create our badges. It creates 3 two-sided bages per paper sheet.
+
+
