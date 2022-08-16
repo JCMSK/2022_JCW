@@ -28,11 +28,11 @@ In this page, you will find:
 
 
 
-### Hackathons
+### Hackathons and coding sessions
 - Topics and aims at these links:
-  - [Biomechanics group](./hackathons/biomech.pdf) 
-  - [SPECTRA](./hackathons/spectra.pdf) 
-  - [Muscle group](./hackathons/muscle.pdf) 
+  - [Ciclope](https://github.com/gianthk/ciclope) 
+  - [Bone erosion](./hackathons/spectra.pdf) 
+  - [Muscle BIDS](https://github.com/muscle-bids/muscle-bids) 
 - Please follow the [coding guidelines](https://jcmsk.github.io/for_contributors.html)!
 
 ### Tutorials
