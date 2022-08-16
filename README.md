@@ -27,13 +27,14 @@ In this page, you will find:
 ![](./figures/program.png)
 
 
+### Hackathons 
 
-### Hackathons and coding sessions
-- Topics and aims at these links:
-  - [Ciclope](https://github.com/gianthk/ciclope) 
-  - [Bone erosion](./hackathons/spectra.pdf) 
-  - [Muscle BIDS](https://github.com/muscle-bids/muscle-bids) 
+-  Aims and GitHub repositories at these links:  
+   - Ciclope: [aims](./hackathons/biomech.pdf), [GitHub repository](https://github.com/gianthk/ciclope)   
+   - Bone erosion: [aims](./hackathons/spectra.pdf)   
+   - Muscle BIDS: [aims](./hackathons/muscle.pdf), [GitHub repository](https://github.com/muscle-bids/muscle-bids)   
 - Please follow the [coding guidelines](https://jcmsk.github.io/for_contributors.html)!
+
 
 ### Tutorials
 
