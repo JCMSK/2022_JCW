@@ -186,10 +186,10 @@ Coming soon! (pending approval by NUMFocus)
 ### Photos
 
 #### Hackathons and tutorials   
-<img src="./pictures/working_1.jpg" width="300"> <img src="./pictures/working_2.jpg" width="300"> <img src="./pictures/working_3.jpg" width="300"> <img src="./pictures/working_4.jpg" width="300"> <img src="./pictures/working_5.jpg" width="300">
+<img src="./pictures/working_1.jpg" width="300"> <img src="./pictures/working_2.jpg" width="300"> <img src="./pictures/working_6.jpg" width="300"> <img src="./pictures/working_4.jpg" width="300"> <img src="./pictures/working_5.jpg" width="300"> <img src="./pictures/working_3.jpg" width="300">
 
 #### Guest speakers: Lorena Barba and Chris Holdgraf
-<img src="./pictures/barba.jpg" width="300"> <img src="./pictures/holdgraf.jpg"
+<img src="./pictures/barba.jpg" width="300"> <img src="./pictures/holdgraf.jpg" width="300"> 
 
 #### Having fun!
 <img src="./pictures/fun_1.jpg" width="300"> <img src="./pictures/fun_2.jpg" width="300"> <img src="./pictures/fun_3.jpg" width="300">
