@@ -55,7 +55,6 @@ In this page, you will find:
 
 ### Invited speakers
 - [Lorena Barba](https://about.me/lorenabarba)
-  - Presentation: coming soon! 
 - [Chris Holdgraf](https://predictablynoisy.com/)
   - Presentation: [here](https://t.co/8VAsBkyqJw)
 
@@ -185,7 +184,15 @@ Coming soon! (pending approval by NUMFocus)
 Coming soon! (pending approval by NUMFocus)
 
 ### Photos
-Link coming soon!
+
+#### Hackathons and tutorials   
+<img src="./pictures/working_1.jpg" width="300"> <img src="./pictures/working_2.jpg" width="300"> <img src="./pictures/working_3.jpg" width="300"> <img src="./pictures/working_4.jpg" width="300"> <img src="./pictures/working_5.jpg" width="300">
+
+#### Guest speakers: Lorena Barba and Chris Holdgraf
+<img src="./pictures/barba.jpg" width="300"> <img src="./pictures/holdgraf.jpg"
+
+#### Having fun!
+<img src="./pictures/fun_1.jpg" width="300"> <img src="./pictures/fun_2.jpg" width="300"> <img src="./pictures/fun_3.jpg" width="300">
 
 ### Code for badges
 Find [here](https://github.com/JCMSK/2022_JCW/tree/main/code_for_badges) the code we used to create our badges. It creates 3 two-sided bages per paper sheet.
