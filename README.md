@@ -181,7 +181,7 @@ Members of the community who cannot join - We will miss you!
 Find our accepted proposal on [Zenodo](https://doi.org/10.5281/zenodo.7019810)
 
 ### Final budget
-Find our final budget [here](./figures/final_budget.png)
+Find our final budget [here](./figures/final_budget.pdf)
 
 ### Photos
 
