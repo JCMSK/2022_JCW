@@ -178,7 +178,7 @@ Members of the community who cannot join - We will miss you!
 ## More
 
 ### Accepted proposal
-Coming soon! (pending approval by NUMFocus)
+Find our accepted proposal on [Zenodo](https://doi.org/10.5281/zenodo.7019810)
 
 ### Final budget
 Coming soon! (pending approval by NUMFocus)
