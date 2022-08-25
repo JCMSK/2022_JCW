@@ -24,7 +24,7 @@ In this page, you will find:
 
 ## Program
 
-![](./figures/program.png)
+![](./figures/program.pdf)
 
 
 ### Hackathons 
