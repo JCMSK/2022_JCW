@@ -114,7 +114,7 @@ Members of the community who cannot join - We will miss you!
 - Number of nights: 3
 
 ### Meals
-- Welcome drinks on June 8 at [Bold](https://www.boldrooftopbar.com/) (not covered by NUMFocus)     
+- Welcome drinks on June 8 at [Bold](https://www.boldrooftopbar.com/) (not covered by NumFOCUS)     
 - Breakfast: June 9-11
 - Coffee break: June 9-11
 - Lunch: June 9-11
