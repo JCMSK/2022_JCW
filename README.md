@@ -25,6 +25,7 @@ In this page, you will find:
 ## Program
 
 ![](./figures/program.pdf)
+<img src="./figures/program.pdf" width="700">
 
 
 ### Hackathons 
