@@ -142,7 +142,7 @@ Members of the community who cannot join - We will miss you!
   - How to get to [QMSKI](https://qmski.org/): Take the train from Maastricht to Noordwijk. The trip takes about 3h30'. You can plan your trip on [ns.nl](https://www.ns.nl/en) or Google Maps. If you are on a budget, consider booking a hotel room in Maastricht for Sat/Sun, and then travel on Sunday
 
 ### Travel reimbursements
-- Travel reimbursements are only for participants from European and Middle Eastern institutions. Apologies to the people who come from other continents. The budget for traveling was limited and the criterion was to reimburse as many people as possible 
+- Travel reimbursements are only for participants from European, Middle Eastern, and one international institutions. Apologies to the people who come from other continents. The budget for traveling was limited and the criterion was to reimburse as many people as possible 
 - To get a travel reimbursement, there are 2 steps to be done **by June 30, 2022**:       
   1. Send Serena an email with the amount you are requesting and a copy of the expense receipts in **one single .pdf file**       
   2. Fill out the [reimbursement form](https://numfocus.typeform.com/to/ohD1BM). Suggestions for some of the questions:
