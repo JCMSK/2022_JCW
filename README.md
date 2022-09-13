@@ -55,6 +55,7 @@ In this page, you will find:
 
 ### Invited speakers
 - [Lorena Barba](https://about.me/lorenabarba)
+  - Presentation: [here](https://doi.org/10.6084/m9.figshare.21084709.v1)  
 - [Chris Holdgraf](https://predictablynoisy.com/)
   - Presentation: [here](https://t.co/8VAsBkyqJw)
 
