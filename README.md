@@ -4,7 +4,7 @@
 
 Dates: June 9-11, 2022
 
-Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Sphinxcour 9A, 6211XZ Maastricht, The Netherlands 
+Venue: [The Student Hotel](https://www.thestudenthotel.com/maastricht/) (now The Social Hub), Sphinxcour 9A, 6211XZ Maastricht, The Netherlands 
 
 ---
 
