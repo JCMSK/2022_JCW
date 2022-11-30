@@ -1,6 +1,7 @@
 # Building the Jupyter Community in MSK Imaging Research
-## A Jupyter Community Workshop sponsored by [NumFOCUS](https://numfocus.org/) and financially supported by Bloomberg and Amazon Web Services
-## Organized by and for the [Jupyter Community in MSK Imaging Research](https://jcmsk.github.io/) 
+## A Jupyter Community Workshop organized by and for the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
+Sponsored by [NumFOCUS](https://numfocus.org/) and financially supported by Bloomberg and Amazon Web Services
+##  
 
 Dates: June 9-11, 2022
 
