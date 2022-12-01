@@ -201,7 +201,7 @@ Find our final budget [here](./figures/final_budget.pdf)
 
 
 ### NumFOCUS blog post
-Coming soon!
+Read the report of our Juptyer Community Workshop on [medium.com](https://medium.com/p/77016ab1d49b )
 
 ### Code for badges
 Find [here](https://github.com/JCMSK/2022_JCW/tree/main/code_for_badges) the code we used to create our badges. It creates 3 two-sided bages per paper sheet.
